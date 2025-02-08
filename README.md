@@ -1,11 +1,6 @@
 # Hospital Management System
 Hospital Management System using MySQL, Php and Bootstrap
 
-
-Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
-
-Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
-
 ## Need to work on:
 
 1. Ability to accept the appointment by the doctor to acknowledge the patient that their appointment has been approved.
@@ -16,6 +11,11 @@ Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan07
 6. Addition of more fields in the prescription statement to make it more specific one.
 7. Addition of more details on payment - such as date of the payment made, amount paid, etc.
 8. Implementation of export button in admin module to export all details to an excel sheet.
+Video Demo : [Hospital Management System - Youtube](https://www.youtube.com/watch?v=W2XGSM5i9P8)
+
+Live Demo : [Hospital Management System - 000webhost by Kishan](https://kishan0725.000webhostapp.com)
+
+
 
 ## Prerequisites
 1. Install XAMPP web server
